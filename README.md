@@ -8,7 +8,7 @@ We will then walk through a step-by-step hands-on workshop that predicts future 
 Slides can be found here: https://docs.google.com/presentation/d/11i4aJiK4PUYAnfElYAQ-R2tT6vEm8K3hUP1vtuGBcmY/edit?usp=sharing
 
 Code (with blanks) on Google Colab can be found here: 
-https://colab.research.google.com/drive/1qYdZ8L8cqzIeYUGS8LZHFoEB2Z5T0TIf
+https://colab.research.google.com/drive/1pJy5UDkAFFSgEUf-Db5WUlXWR71YgbQJ
 
 To edit the code, click File then Save a copy in Drive… 
 
