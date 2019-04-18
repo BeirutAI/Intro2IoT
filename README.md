@@ -6,6 +6,7 @@ You will be taken through a step-by-step hands-on project where you will use sma
 Slides can be found here: https://drive.google.com/open?id=11i4aJiK4PUYAnfElYAQ-R2tT6vEm8K3hUP1vtuGBcmY
 
 Code (with blanks) on Google Colab can be found here: 
+https://colab.research.google.com/drive/1qYdZ8L8cqzIeYUGS8LZHFoEB2Z5T0TIf
 
 Complete code (with solutions) on Google Colab can be found here: 
 https://colab.research.google.com/drive/1I1rmzqKuPHLSUd1Mt_MHFSAcZLWLdp70
