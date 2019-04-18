@@ -1,7 +1,7 @@
 # Intro2IoT
 In this workshop, you will learn about the world of IoT. We will introduce you to the latest IoT advancements, and how Artificial Intelligence can make the most out of the new era of smart devices.
 
-You will be taken through a step-by-step hands-on project where you will use smart devices to solve a real-world problem. You will build your own machine learning model and learn about a new data type that is everywhere around you!
+We will then walk through a step-by-step hands-on workshop that predicts future energy level consumptions of a home in Paris from previously collected energy levels. You will get the chance to build your own predictive model and learn about a new data type that is everywhere around you.
 
 ![What-Things-Make-a-Grid-Smart-and-their-operation](https://user-images.githubusercontent.com/16987119/56344717-c4854d00-61c6-11e9-92ad-c43144367bb5.jpg)
 
