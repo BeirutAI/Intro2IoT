@@ -3,7 +3,7 @@ In this workshop, you will learn about the world of IoT. We will introduce you t
 
 You will be taken through a step-by-step hands-on project where you will use smart devices to solve a real-world problem. You will build your own machine learning model and learn about a new data type that is everywhere around you!
 
-Slides can be found here: https://drive.google.com/open?id=11i4aJiK4PUYAnfElYAQ-R2tT6vEm8K3hUP1vtuGBcmY
+Slides can be found here: https://docs.google.com/presentation/d/11i4aJiK4PUYAnfElYAQ-R2tT6vEm8K3hUP1vtuGBcmY/edit?usp=sharing
 
 Code (with blanks) on Google Colab can be found here: 
 https://colab.research.google.com/drive/1qYdZ8L8cqzIeYUGS8LZHFoEB2Z5T0TIf
