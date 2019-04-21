@@ -7,8 +7,9 @@ We will then walk through a step-by-step hands-on workshop that predicts future 
 
 Slides can be found here: https://docs.google.com/presentation/d/11i4aJiK4PUYAnfElYAQ-R2tT6vEm8K3hUP1vtuGBcmY/edit?usp=sharing
 
-Code (with blanks) on Google Colab can be found here: 
-https://colab.research.google.com/drive/1pJy5UDkAFFSgEUf-Db5WUlXWR71YgbQJ
+Code (with blanks) on Google Colab can be found here: https://colab.research.google.com/drive/1pJy5UDkAFFSgEUf-Db5WUlXWR71YgbQJ
+
+Complete code (with solutions) on Google Colab can be found here: https://colab.research.google.com/drive/1I1rmzqKuPHLSUd1Mt_MHFSAcZLWLdp70
 
 To edit the code, click File then Save a copy in Drive… 
 
